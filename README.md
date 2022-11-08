@@ -7,8 +7,11 @@ source - https://tryhackme.com/resources/blog/free_path
 - [ ] Intro to Researching https://tryhackme.com/room/introtoresearch 
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology 
 - [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals 
-- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting **Introductory CTFs to get your feet wet** 
-- [ ] Google Dorking https://tryhackme.com/room/googledorking - [ ] OHsint https://tryhackme.com/room/ohsint - [ ] Shodan.io https://tryhackme.com/room/shodan 
+- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting 
+**Introductory CTFs to get your feet wet** 
+- [ ] Google Dorking https://tryhackme.com/room/googledorking 
+- [ ] OHsint https://tryhackme.com/room/ohsint 
+- [ ] Shodan.io https://tryhackme.com/room/shodan 
 # Level2 - Tooling 
 - [ ] Tmux https://tryhackme.com/room/rptmux 
 - [ ] Nmap https://tryhackme.com/room/furthernmap 
