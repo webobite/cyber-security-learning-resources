@@ -50,11 +50,11 @@ source - https://tryhackme.com/resources/blog/free_path
 - [ ] Jack of all trades https://tryhackme.com/room/jackofalltrades 
 - [ ] Bolt https://tryhackme.com/room/bolt 
 # Level 5 - Reverse Engineering 
-- [ ] Intro to x86 64 https://tryhackme.com/room/introtox8664 
-- [ ] CC Ghidra https://tryhackme.com/room/ccghidra 
-- [ ] CC Radare2 https://tryhackme.com/room/ccradare2 
-- [ ] CC Steganography https://tryhackme.com/room/ccstego 
-- [ ] Reverse Engineering https://tryhackme.com/room/reverseengineering 
+- [ ] Intro to x86 64 https://tryhackme.com/room/introtox8664 🛑
+- [ ] CC Ghidra https://tryhackme.com/room/ccghidra 🛑
+- [ ] CC Radare2 https://tryhackme.com/room/ccradare2 🛑
+- [ ] CC Steganography https://tryhackme.com/room/ccstego 🛑
+- [ ] Reverse Engineering https://tryhackme.com/room/reverseengineering 🛑
 - [ ] Reversing ELF https://tryhackme.com/room/reverselfiles 
 - [ ] Dumping Router Firmware https://tryhackme.com/room/rfirmware 
 # Level 6 - Networking 
